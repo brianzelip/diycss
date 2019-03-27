@@ -10,3 +10,8 @@ body,
 .vh100 {
   min-height: 100vh;
 }
+
+/* for testing purposes */
+.a-class-not-used {
+  color: brown;
+}
